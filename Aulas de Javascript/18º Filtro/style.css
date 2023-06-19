@@ -1,0 +1,28 @@
+#myInput{
+    width: 95%;
+    font: 16px;
+    padding: 12px 0 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+}
+
+#myUl{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#myUl li a{
+    border: 1px solid #ddd;
+    background-color: #f6f6f6;
+    text-decoration: none;
+    padding: 12px;
+    font-size: 18px;
+    color: black;
+    display: block;
+}
+
+#myUl li a:hover{
+    background-color: #eee;
+
+}

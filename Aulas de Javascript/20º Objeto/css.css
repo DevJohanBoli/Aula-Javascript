@@ -1,0 +1,8 @@
+body {
+    position: absolute;
+    pointer-events: none; /* Impede que o elemento interfira com os eventos do cursor */
+    width: 32px; /* Ajuste a largura conforme necessário */
+    height: 32px; /* Ajuste a altura conforme necessário */
+    cursor: url("png-clipart-minecraft-sword-video-game-giant-thinkwell-inc-emerald-s-angle-3d-computer-graphics.pngz"), auto; /* Substitua 'caminho/para/o-arquivo-do-personagem.png' pelo caminho correto para sua imagem */
+  }
+  
