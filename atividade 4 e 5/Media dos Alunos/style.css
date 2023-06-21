@@ -1,0 +1,36 @@
+body{
+    background-color: cornsilk;
+    margin: 0;
+    padding: 50px 350px;
+}
+main{
+    border: 1px solid;
+    background-color: bisque;
+}
+main .notas{
+    display: flex;
+    justify-content: center;
+}
+main .notas .alunos, .alunos1{
+    border: 1px solid;
+    padding: 5px 20px;
+}
+.notas .alunos{
+    background-color: azure;
+}
+.notas .alunos1{
+    background-color: antiquewhite;
+}
+button{
+    margin: 10px 0 20px 0;
+    padding: 10px 20px;
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: azure;
+}
+#aprov-reprov{
+    color: darkcyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
